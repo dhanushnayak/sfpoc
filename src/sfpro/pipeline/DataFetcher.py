@@ -15,7 +15,7 @@ class DataFetch:
         return get_tables()
 
     def table(self,table_name:str):
-        @st.cache_data
+        
         def get_data(table):
             return self.session.sql(f"SELECT * FROM {table}").to_pandas()
         

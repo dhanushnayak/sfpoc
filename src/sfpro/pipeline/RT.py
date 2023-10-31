@@ -37,7 +37,7 @@ class RT_info:
           except:
                 inp,qnp = 0,0
                 
-          return {"total_price":total_price,"total_transaction": total_transaction,'pdfs':pdfs,'qdfs':qdfs,"incp":inp,"qncp":qnp}
+          return {"total_price":round(total_price,1),"total_transaction": total_transaction,'pdfs':pdfs,'qdfs':qdfs,"incp":round(inp,1),"qncp":round(qnp,1)}
 
     def get_pl_matrix(self,wise='D',mode_of_matrix='mean'):
         qdf = self.df

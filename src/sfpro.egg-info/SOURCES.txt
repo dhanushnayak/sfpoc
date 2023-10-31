@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/sfpro.egg-info/PKG-INFO
+src/sfpro.egg-info/SOURCES.txt
+src/sfpro.egg-info/dependency_links.txt
+src/sfpro.egg-info/top_level.txt

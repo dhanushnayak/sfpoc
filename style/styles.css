@@ -1,0 +1,76 @@
+#MainMenu {visibility: hidden;}
+
+div.stButton > button:first-child {
+    background-color: rgba(255, 255, 255, 0.993);
+    text-decoration-color: gray;
+    color: grey;
+    
+ }
+
+ div.stButton > button:hover {
+    background-color: #ebf0eb;
+    color:#c906bf;
+    }
+
+div.css-1ftupb1{ 
+    background-color: rgb(255, 254, 254);
+    text-align: justify;
+    border-radius: 1em;
+    box-shadow: 1pt;
+    border-color: whitesmoke;
+}
+
+
+
+
+footer {visibility: hidden;}
+
+div.css-164bidi:nth-child(6){
+    align-items: center;
+
+}
+
+
+.uploadedFile{
+    background-color:  #ececec;
+}
+
+
+
+
+div.css-lubgrn:nth-child(1)
+{
+    background-color: #F7F5F5;
+    border-color: #F7F7F7;
+}
+
+div.stSlider > div[data-baseweb = "slider"] > div {
+    color: #ffffff;
+}
+
+div[data-testid="metric-container"] {
+    background-color: rgba(255, 255, 255, 0.897);
+    border: 1px solid rgba(221, 212, 212, 0.1);
+    padding: 1% 1% 1% 1%;
+    border-radius: 5px;
+    color: rgb(102, 66, 105);
+    
+ }
+ 
+ /* breakline for metric text         */
+ div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
+    color: rgb(17, 17, 17);
+ }
+
+
+ div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
+    color: rgb(17, 17, 17);
+ }
+ 
+
+
+ .streamlit-expanderContent {
+    background-color:#8e6097;
+  
+ }
+ 

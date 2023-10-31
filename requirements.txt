@@ -1,0 +1,10 @@
+snowflake-connector-python==3.2.0
+snowflake-snowpark-python==1.8.0
+sortedcontainers==2.4.0
+stack-data==0.6.2
+streamlit
+termcolor==2.3.0
+PyYAML==6.0.1
+plotly
+https://github.com/wbond/oscrypto/archive/d5f3437ed24257895ae1edd9e503cfb352e635a8.zip
+-e . 

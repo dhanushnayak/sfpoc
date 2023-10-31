@@ -1,0 +1,16 @@
+COVERT_COLUMNS:
+  BASIC:
+    AGE: "int"
+    CATEGORY: "str"
+    QUANTITY: "float"
+    PRICE: "float"
+    INVOICE_DATE: "date"
+    SHOPPING_MALL: "str"
+  CEVAHIR_AVM_TABLE:
+    AGE: "int"
+    CATEGORY: "str"
+    QUANTITY: "float"
+    PRICE: "float"
+    INVOICE_DATE: "date"
+    SHOPPING_MALL: "str"
+

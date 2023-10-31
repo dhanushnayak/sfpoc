@@ -1,0 +1,6 @@
+database: 
+  poc_db:
+    database_name: poc_db
+    schema: poc_schema
+    warehouse: poc_wh
+

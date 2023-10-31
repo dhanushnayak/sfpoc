@@ -1,0 +1,11 @@
+[theme] # You have to add this line
+
+
+primaryColor = '#302f30' # Bright grey
+
+backgroundColor = '#854791' # Dark purple
+
+secondaryBackgroundColor = '#faa5e6' # Light purple
+
+textColor="white"
+

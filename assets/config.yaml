@@ -1,13 +1,13 @@
 
   
 SNOWFLAKE_USER:
-  account: "ar16523.ap-south-1.aws"
-  user: "dhanush_poc"
-  password: "Dhanushp@1"
-  role: "POC_DEVELOPER"
-  warehouse: "STREAMLIT_WH"
-  database: "POC_DB"
-  schema: "POC_SCHEMA"
+  account:account
+  user: user
+  password: password
+  role: role
+  warehouse: warehouse
+  database: database
+  schema: schema
   use_openssl_only: false
   ocsp_fail_open: false
 
